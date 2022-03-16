@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:cert="http://www.w3.org/ns/auth/cert#"
+         xmlns:dc="http://purl.org/dc/terms/">
+  <foaf:PersonalProfileDocument rdf:about="http://localhost/bookpw5/Data/novel.rdf">
+    <foaf:maker rdf:resource="http://localhost/bookpw5/Data/"/>
+    <foaf:primaryTopic rdf:resource="http://localhost/bookpw5/Data/"/>
+  </foaf:PersonalProfileDocument>
+
+   <foaf:book rdf:about="http://localhost/bookpw5/Data/#1">
+        <foaf:name> Perempuan yang Menangis Kepada Bulan Hitam - Dian Purnomo</foaf:name>
+        <foaf:image>https://www.gramedia.com/blog/content/images/2021/12/9786020648453_Perempuan-yang-Menangis-Kepada-Bulan-Hitam-1.jpg</foaf:image>
+    </foaf:book>
+    <foaf:book rdf:about="http://localhost/bookpw5/Data/#2">
+    <foaf:name> Sumur - Eka Kurniawan</foaf:name>
+    <foaf:image>https://www.gramedia.com/blog/content/images/2021/12/9786020653242_SUMUR.jpg</foaf:image>
+</foaf:book>
+<foaf:book rdf:about="http://localhost/bookpw5/Data/#3">
+<foaf:name>  Rapijali - Dee Lestari</foaf:name>
+<foaf:image>https://www.gramedia.com/blog/content/images/2021/12/Cover_Depan_Rapijali_3-1.jpeg</foaf:image>
+</foaf:book>
+<foaf:book rdf:about="http://localhost/bookpw5/Data/#4">
+<foaf:name> Off The Record 3 - Ria SW</foaf:name>
+<foaf:image>https://www.gramedia.com/blog/content/images/2021/07/9786020653365_Off_The_Record_3_cov.jpg</foaf:image>
+</foaf:book>
+</rdf:RDF>

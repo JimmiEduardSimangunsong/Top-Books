@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:cert="http://www.w3.org/ns/auth/cert#"
+         xmlns:dc="http://purl.org/dc/terms/">
+  <foaf:PersonalProfileDocument rdf:about="http://localhost/bookpw5/Data/booksss.rdf">
+    <foaf:maker rdf:resource="http://localhost/bookpw5/Data/"/>
+    <foaf:primaryTopic rdf:resource="http://localhost/bookpw5/Data/"/>
+  </foaf:PersonalProfileDocument>
+
+<foaf:book rdf:about="http://localhost/bookpw5/Data/#1">
+        <foaf:name>Guru Aini</foaf:name>
+        <foaf:author>Andrea Hirata</foaf:author>
+        <foaf:sinopsis>Lalu secara menyedihkan terseret arus deras sungai besar rutinitas dan basa-basi 
+            birokrasi lalu tunduk patuh pada sistem yang buruk.Konon, berdasarkan penelitian antah berantah, 
+            idealisme anak muda yang baru tamat dari perguruan tinggi bertahan paling lama 4 bulan. Setelah
+            itu mereka akan menjadi pengeluh,penggerutu, dan suka mencari kambing hitam seperti kebanyakan orang lainnya.
+            Dalam kenyataan hidup seperti itu, seberapa jauh Desi berani mempertahankan idealismenya
+            menjadi guru matematika di sekolah pelosok?”
+            Buku best seller Indonesia karangan Andrea Hirata ini mengusung tema dunia pendidikan 
+            Tanah Air. Kecintaannya terhadap dunia sains dan Matematika menginspirasinya untuk menulis buku “Guru Aini,” 
+            kisah mengenai seorang guru untuk mempertahan idealismenya dalam mengajar anak-anak mengenai Matematika. </foaf:sinopsis>
+        <foaf:price>Rentang Harga: Rp 79.000 - Rp 99.000</foaf:price>
+        <foaf:image>https://www.bukukita.com/babacms/displaybuku/114128_f.jpg</foaf:image>
+</foaf:book>
+<foaf:book rdf:about="http://localhost/bookpw5/Data/#2">
+   <foaf:name>Kamu Terlalu Banyak Bercanda</foaf:name>
+   <foaf:author> Marchella FP</foaf:author>
+   <foaf:sinopsis>“Terlalu mudah kagumi terang. Coba, bila berani kenali gelapnya.” Begitulah salah satu 
+       kutipan buku terlaris karangan Marchella FP.Banyak kutipan lainnya dalam buku ini yang ditulis untuk
+       para pembaca yang sedang berjuang melawan sisi gelapnya masing-masing.Buku “Kamu Terlalu Banyak Bercanda” 
+       menjelajahi berbagai perasaan manusia yang jarang ditunjukkan, marah, sedih, kecewa, keraguan, dan takut.
+       Meski buku ini pendek, kata-kata di dalamnya memiliki makna yang dalam dan menyentuh hati. </foaf:sinopsis>
+   <foaf:price>Rentang Harga: Rp 112.500 - Rp 125.000</foaf:price>
+   <foaf:image>https://www.bukukita.com/babacms/displaybuku/114261_f.jpg</foaf:image>
+</foaf:book>
+<foaf:book rdf:about="http://localhost/bookpw5/Data/#3">
+   <foaf:name>Jika Kita Tak Pernah Jadi Apa-apa</foaf:name>
+   <foaf:author> Alvi Syahrin</foaf:author>
+   <foaf:sinopsis>“Iya, uang bikin senang. Iya, uang adalah kebutuhan. Iya, uang bisa memberi kita kesempatan lebih 
+       luas untuk membeli ini-itu, mencoba pengalaman-pengalaman baru. Tetapi, sampai jadi definisi kebahagiaan? 
+       Sampai jadi pemberi rasa tenang di hati? Rasanya sudah kelewatan.”Buku Jika Kita Tak Pernah Jadi Apa-Apa dipenuhi 
+       dengan kutipan untuk kamu yang putus asa dan khawatir akan masa depan. Buku ini mengajak kita untuk bersikap bodo 
+       amat terhadap standar kesuksesan yang diekspektasi media dan mulai mencari arti kebahagian menurut standar kita sendiri. 
+       Kita pasti akan menjadi sesuatu, tanpa mengikuti kriteria umum.</foaf:sinopsis>
+   <foaf:price>Rentang Harga: Rp 70.400 - Rp 88.000</foaf:price>
+   <foaf:image>https://www.bukukita.com/babacms/displaybuku/113836_f.jpg</foaf:image>
+</foaf:book>
+<foaf:book rdf:about="http://localhost/bookpw5/Data/#4">
+   <foaf:name>Kamu Gak Sendiri</foaf:name>
+   <foaf:author>Syahid Muhammad</foaf:author>
+   <foaf:sinopsis>Buku best seller berjudul Kamu Gak Sendiri mendorong kita untuk lebih jujur dalam menghadapi 
+    perasaan kita sehari-hari, yang kecewa, yang lelah, yang tidak tahu kapan harus beristirahat.
+   Semua perasaan ini harus diterima dan diakui untuk dilepaskan. Takut dalam hidup ini itu wajar. 
+   Seperti apa kata judul buku ini, kamu gak sendirian dalam menghadapi beratnya masalah kehidupanmu.  </foaf:sinopsis>
+   <foaf:price>Rentang Harga: Rp 70.400 - Rp 88.000</foaf:price>
+   <foaf:image>https://www.bukukita.com/babacms/displaybuku/114783_f.jpg</foaf:image>
+</foaf:book>
+<foaf:book rdf:about="http://localhost/bookpw5/Data/#5">
+   <foaf:name>Segala-galanya Ambyar</foaf:name>
+   <foaf:author>Mark Mason</foaf:author>
+   <foaf:sinopsis>Manusia hidup di zaman yang menarik. Dalam segi material, hidup kita terasa lebih bebas, sehat dan melimpah 
+    dibandingkan zaman sebelumnya. Namun, entah mengapa semua terasa rusak dan tidak dapat diperbaiki.
+    Dengan adanya akses ke teknologi, edukasi, dan komunikasi, banyak diantara kita yang malah merasakan keputusasaan. 
+    Apa yang telah terjadi? Jika ada satu orang yang bisa menjawab pertanyaan ini, itulah Mark Mason.
+    Buku “Segala-galanya Ambyar” ini menantang para pembaca untuk menganalisa dunia filosofikal dan 
+    sosial manusia dan makna dari kehidupan ini dengan cara pikir yang mungkin belum pernah kita pertimbangkan. 
+    “Mark Mason berhasil menjelaskan alasan dari kegilaan dunia ini ke seluruh generasi dengan menggunakan 
+    ilmu pengetahuan, filosofi moral, dan kumpulan kata-kata bijak yang lucu.
+    Buku ini dijamin membuatmu ketawa, mempertanyakan kembali kepercayaanmu, dan (mudah-mudahan) mengubah hidupmu.”  Nir Eyal</foaf:sinopsis>
+   <foaf:price>Rentang Harga: Rp 90.000</foaf:price>
+   <foaf:image>https://www.bukukita.com/babacms/displaybuku/114560_f.jpg</foaf:image>
+</foaf:book>
+<foaf:book rdf:about="http://localhost/bookpw5/Data/#6">
+   <foaf:name>Sebuah Seni Untuk Bersikap Bodo Amat</foaf:name>
+   <foaf:author>Mark Manson</foaf:author>
+   <foaf:sinopsis>Selama bertahun-tahun, seringkali kita diberitahu, “pikiran positif adalah kunci dari kebahagiaan 
+    dan kekayaan dalam hidup.”Melalui Sebuah Seni untuk Bersikap Bodo Amat, Mark Manson berpikir sebaliknya dan 
+    mengajak kita untuk jujur terhadap diri sendiri. Manusia adalah makhluk yang sempurna. “Tidak semua orang bisa 
+    menjadi luar biasa, ada dari kita yang menang dan kalah.Hal ini tidak adil dan bukan salah kita.”  Banyak masalah 
+    yang tidak perlu kita pedulikan agar bisa fokus ke hal-hal yang lebih penting. “Buku ini berbeda dengan buku lainnya. 
+    Jangan mencoba. Menyerah. Turunkan standar. Berhenti mempercayai dirimu sendiri.
+    Ikuti rasa sakit. Setiap faktor ini merupakan hal yang nyata dan solid dibandingkan hal-hal positif yang biasanya. Singkat, namun dalam.”  Derek Sivers </foaf:sinopsis>
+   <foaf:price>Rentang Harga: Rp 67.000</foaf:price>
+   <foaf:image>https://www.bukukita.com/babacms/displaybuku/105210_f.jpg</foaf:image>
+</foaf:book>
+<foaf:book rdf:about="http://localhost/bookpw5/Data/#7">
+   <foaf:name>Atomic Habits</foaf:name>
+   <foaf:author>James Clear </foaf:author>
+   <foaf:sinopsis>Buku ini membahas satu pertanyaan penting: Bagaimana cara kita hidup lebih baik? Kita tahu kebiasaan 
+    baik bisa memperbaiki, tapi cara ini mudah untuk dilupakan.Apa yang membuat beberapa kebiasaan lebih mudah untuk diikuti 
+    dibandingkan kebiasaan lainnya? Buku Atomic Habits dipenuhi dengan tips untuk memperbaiki diri sendiri berdasarkan 
+    ilmu-ilmu sains, cara merubah hal-hal kecil yang memberikan hasil yang luar biasa.
+    “Buku ini mudah dimengerti dan sangat berguna. James Clear menjelaskan informasi paling mendasar dan penting 
+    untuk mengubah kebiasaan, sehingga kamu bisa fokus menyelesaikan lebih banyak dengan fokus akan hal-hal yang lebih sedikit.” Mark Mason</foaf:sinopsis>
+   <foaf:price>Rentang Harga: Rp 91.800 - Rp 108.000</foaf:price>
+   <foaf:image>https://www.bukukita.com/babacms/displaybuku/113495_f.jpg</foaf:image>
+</foaf:book>
+<foaf:book rdf:about="http://localhost/bookpw5/Data/#8">
+   <foaf:name>A How to Win Friends and Influence People</foaf:name>
+   <foaf:author>Dale Carnegie</foaf:author>
+   <foaf:sinopsis>“How to Win Friends and Influence People” diterbitkan pada tahun 1936 dan sudah terjual lebih dari 15 juta buku.
+    Ini merupakan salah satu buku best seller yang mempengaruhi berbagai sosok ternama seperti Warren Buffet dan Charles Manson. 
+    Buku ini menjelaskan kunci dari relasi sesama manusia. Dipenuhi dengan wawasan dan tips berguna untuk sukses berinteraksi 
+    dengan sesama dalam bisnis maupun kehidupan sehari-hari.
+    Buku ini merupakan buku panduan banyak orang, mulai dari bagaimana cara memberikan kesan pertama yang bagus, 
+    trik untuk lebih baik dalam percakapan, dan cara berurusan dengan orang.</foaf:sinopsis>
+   <foaf:price>Rentang Harga: Rp 91.800 - Rp 108.000</foaf:price>
+   <foaf:image>https://www.bukukita.com/babacms/displaybuku/51943_f.jpg</foaf:image>
+</foaf:book>
+    
+</rdf:RDF>

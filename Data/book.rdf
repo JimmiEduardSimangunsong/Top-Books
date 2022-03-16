@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:cert="http://www.w3.org/ns/auth/cert#"
+         xmlns:dc="http://purl.org/dc/terms/">
+  <foaf:PersonalProfileDocument rdf:about="http://localhost/bookpw5/Data/book.rdf">
+    <foaf:maker rdf:resource="http://localhost/bookpw5/Data/"/>
+    <foaf:primaryTopic rdf:resource="http://localhost/bookpw5/Data/"/>
+  </foaf:PersonalProfileDocument>
+
+   <foaf:book rdf:about="http://localhost/bookpw5/Data/#1">
+        <foaf:name>The Cult of the Amateur</foaf:name>
+        <foaf:sinopsis>The Cult of the Amateur: How Today's Internet Is Killing Our Culture (ISBN 978-0-385-52080-5) is a 2007 book written by entrepreneur and Internet critic Andrew Keen. Published by Currency, Keen's first book is a critique of the enthusiasm surrounding user-generated content, peer production, and other Web 2.0–related phenomena.</foaf:sinopsis>
+        <foaf:author>Andrew Keen</foaf:author>
+        <foaf:country>United States</foaf:country>
+        <foaf:language>English</foaf:language>
+        <foaf:publisher>Currency</foaf:publisher>
+        <foaf:releaseDate>2007-06-05</foaf:releaseDate>
+        <foaf:numberOfPage>228</foaf:numberOfPage>
+        <foaf:literaryGenre>Nonfiction</foaf:literaryGenre>
+        <foaf:isbn>978-0-385-52080-5</foaf:isbn>
+        <foaf:image>https://upload.wikimedia.org/wikipedia/en/1/15/The_Cult_of_the_Amateur.gif</foaf:image>
+    </foaf:book>
+    <foaf:book rdf:about="http://localhost/bookpw5/Data/#2">
+        <foaf:name>he Information: A History, a Theory, a Flood</foaf:name>
+        <foaf:sinopsis>The Information: A History, a Theory, a Flood is a book by science history writer James Gleick, published in March 2011, which covers the genesis of the current information age. It was on The New York Times best-seller list for three weeks following its debut. The Information has also been published in ebook formats by Fourth Estate and Random House, and as an audiobook by Random House Audio.</foaf:sinopsis>
+        <foaf:author>James Gleick</foaf:author>
+        <foaf:country>United States</foaf:country>
+        <foaf:language>English</foaf:language>
+        <foaf:publisher>Pantheon Books(US), Fourth Estate(UK)</foaf:publisher>
+        <foaf:releaseDate>2011-03-01</foaf:releaseDate>
+        <foaf:numberOfPage>544</foaf:numberOfPage>
+        <foaf:literaryGenre>Popular Science</foaf:literaryGenre>
+        <foaf:isbn>978-0-375-42372-7</foaf:isbn>
+        <foaf:image>https://upload.wikimedia.org/wikipedia/en/b/b6/The_Information_Gleick_2011.jpg</foaf:image>
+    </foaf:book>
+    <foaf:book rdf:about="http://localhost/bookpw5/Data/#3">
+        <foaf:name>Mein Kampf</foaf:name>
+        <foaf:sinopsis>Mein Kampf (German: [maɪn ˈkampf]; My Struggle or My Fight) is a 1925 autobiographical manifesto by Nazi Party leader Adolf Hitler. The work describes the process by which Hitler became antisemitic and outlines his political ideology and future plans for Germany. Volume 1 of Mein Kampf was published in 1925 and Volume 2 in 1926. The book was edited first by Emil Maurice, then by Hitler's deputy Rudolf Hess.</foaf:sinopsis>
+        <foaf:author>Adolf Hitler</foaf:author>
+        <foaf:country>Weimar Republic</foaf:country>
+        <foaf:language>German</foaf:language>
+        <foaf:publisher>Franz Eher Nachfolger GmbH</foaf:publisher>
+        <foaf:releaseDate>1925-07-18</foaf:releaseDate>
+        <foaf:numberOfPage>720</foaf:numberOfPage>
+        <foaf:literaryGenre>Autobiography</foaf:literaryGenre>
+        <foaf:isbn>978-0-395-95105-7</foaf:isbn>
+        <foaf:image>https://upload.wikimedia.org/wikipedia/commons/3/30/Mein_Kampf_dust_jacket.jpeg</foaf:image>
+    </foaf:book>
+    <foaf:book rdf:about="http://localhost/bookpw5/Data/#4">
+        <foaf:name>The Call of the Wild</foaf:name>
+        <foaf:sinopsis>The Call of the Wild is a short adventure novel by Jack London, published in 1903 and set in Yukon, Canada, during the 1890s Klondike Gold Rush, when strong sled dogs were in high demand. The central character of the novel is a dog named Buck. The story opens at a ranch in Santa Clara Valley, California, when Buck is stolen from his home and sold into service as a sled dog in Alaska. He becomes progressively more primitive and wild in the harsh environment, where he is forced to fight to survive and dominate other dogs. By the end, he sheds the veneer of civilization, and relies on primordial instinct and learned experience to emerge as a leader in the wild.</foaf:sinopsis>
+        <foaf:author>Jack London</foaf:author>
+        <foaf:country>United States</foaf:country>
+        <foaf:language>English</foaf:language>
+        <foaf:publisher>Macmillan</foaf:publisher>
+        <foaf:releaseDate>1903</foaf:releaseDate>
+        <foaf:numberOfPage>232</foaf:numberOfPage>
+        <foaf:literaryGenre>Adventure fiction</foaf:literaryGenre>
+        <foaf:isbn>(LCC) PS3523 .O46</foaf:isbn>
+        <foaf:image>https://upload.wikimedia.org/wikipedia/commons/2/26/JackLondoncallwild.jpg</foaf:image>
+    </foaf:book>
+    <foaf:book rdf:about="http://localhost/bookpw5/Data/#5">
+        <foaf:name>The 120 Days of Sodom</foaf:name>
+        <foaf:sinopsis>The 120 Days of Sodom, or the School of Libertinage (French: Les 120 Journées de Sodome ou l'école du libertinage) is a novel by the French writer and nobleman Donatien Alphonse François, Marquis de Sade. Described as both pornographic and erotic, it was written in 1785. It tells the story of four wealthy male libertines who resolve to experience the ultimate sexual gratification in orgies. To do this, they seal themselves away for four months in an inaccessible castle in the heart of the Black Forest, with a harem of 36 victims, mostly male and female teenagers, and engage four female brothel keepers to tell the stories of their lives and adventures. The crimes and tortures in the women's narratives inspire the libertines to similarly abuse and torture their victims, which gradually grows</foaf:sinopsis>
+        <foaf:author>Marquis_de_Sade</foaf:author>
+        <foaf:country>France</foaf:country>
+        <foaf:language>France</foaf:language>
+        <foaf:publisher>Club des Bibliophiles, Penguin Books</foaf:publisher>
+        <foaf:releaseDate>1904</foaf:releaseDate>
+        <foaf:numberOfPage>-</foaf:numberOfPage>
+        <foaf:literaryGenre>Philosophy and literature, Erotic literature</foaf:literaryGenre>
+        <foaf:isbn>978-0-141-39434-3</foaf:isbn>
+        <foaf:image>https://upload.wikimedia.org/wikipedia/commons/5/50/Sade_-_Les_120_Journ%C3%A9es_de_Sodome%2C_%C3%A9d._D%C3%BChren%2C_1904_%28page_6_crop%29.jpg</foaf:image>
+    </foaf:book>
+    <foaf:book rdf:about="http://localhost/bookpw5/Data/#6">
+        <foaf:name>East of Eden</foaf:name>
+        <foaf:sinopsis>East of Eden is a novel by American author and Nobel Prize winner John Steinbeck. Published in September 1952, the work is regarded by many to be Steinbeck's most ambitious novel and by Steinbeck himself to be his magnum opus. Steinbeck stated about East of Eden: "It has everything in it I have been able to learn about my craft or profession in all these years," and later said: "I think everything else I have written has been, in a sense, practice for this." The novel was originally addressed to Steinbeck's young sons, Thom and John (then 61⁄2 and 41⁄2 years old, respectively). Steinbeck wanted to describe the Salinas Valley for them in detail: the sights, sounds, smells and colors.</foaf:sinopsis>
+        <foaf:author>John_Steinbeck</foaf:author>
+        <foaf:country>United States</foaf:country>
+        <foaf:language>English</foaf:language>
+        <foaf:publisher>The Viking Press</foaf:publisher>
+        <foaf:releaseDate>1952-09-19</foaf:releaseDate>
+        <foaf:numberOfPage>-</foaf:numberOfPage>
+        <foaf:literaryGenre>Novel</foaf:literaryGenre>
+        <foaf:isbn>978-0-140-18639-0</foaf:isbn>
+        <foaf:image>https://upload.wikimedia.org/wikipedia/commons/9/9a/East_of_Eden_%281952_1st_ed_dust_jacket%29.jpg</foaf:image>
+    </foaf:book>
+    <foaf:book rdf:about="http://localhost/bookpw5/Data/#7">
+        <foaf:name>Not After Midnight, and other stories</foaf:name>
+        <foaf:sinopsis>Not After Midnight, and other stories is a 1971 collection of five long stories by Daphne du Maurier. It was first published in Britain by Gollancz (with a cover by Daphne du Maurier's daughter Flavia Tower), and in America by Doubleday under the title Don't Look Now. In 1973 it was re-published in the UK by Harmondsworth (Penguin) as Don't Look Now, and other stories.</foaf:sinopsis>
+        <foaf:author>Daphne_du_Maurier</foaf:author>
+        <foaf:country>United Kingdom, United States</foaf:country>
+        <foaf:language>English</foaf:language>
+        <foaf:publisher>Doubleday, Victor Gollancz</foaf:publisher>
+        <foaf:releaseDate>1971</foaf:releaseDate>
+        <foaf:numberOfPage>285</foaf:numberOfPage>
+        <foaf:literaryGenre>Fiction, Tension</foaf:literaryGenre>
+        <foaf:isbn>0-575-00765-6</foaf:isbn>
+        <foaf:image>https://upload.wikimedia.org/wikipedia/en/2/20/NotAfterMidnight.jpg</foaf:image>
+    </foaf:book>
+    <foaf:book rdf:about="http://localhost/bookpw5/Data/#8">
+        <foaf:name>Herzog</foaf:name>
+        <foaf:sinopsis>This page is about the novel by Saul Bellow. For other uses, see Herzog (disambiguation). Herzog is a 1964 novel by Saul Bellow, composed in part of letters from the protagonist Moses E. Herzog. It won the U.S. National Book Award for Fiction and the Prix International. In 2005, Time magazine named it one of the 100 best novels in the English language since Time's founding in 1923.</foaf:sinopsis>
+        <foaf:author>Saul_Bellow</foaf:author>
+        <foaf:country>United States</foaf:country>
+        <foaf:language>English</foaf:language>
+        <foaf:publisher>Viking Press</foaf:publisher>
+        <foaf:releaseDate>1964-09-21</foaf:releaseDate>
+        <foaf:numberOfPage>341</foaf:numberOfPage>
+        <foaf:literaryGenre>Novel</foaf:literaryGenre>
+        <foaf:isbn>978-0-142-43729-2</foaf:isbn>
+        <foaf:image>https://upload.wikimedia.org/wikipedia/commons/a/aa/Herzog_%281964_1st_ed%29_-_Saul_Bellow.jpg</foaf:image>
+    </foaf:book>
+    <foaf:book rdf:about="http://localhost/bookpw5/Data/#9">
+        <foaf:name>The Guide</foaf:name>
+        <foaf:sinopsis>The Guide is a 1958 novel written in English by the Indian author R. K. Narayan. Like most of his works the novel is based on Malgudi, the fictional town in South India. The novel describes the transformation of the protagonist, Raju, from a tour guide to a spiritual guide and then one of the greatest holy men of India. The novel brought Narayan the 1960 Sahitya Akademi Award for English, by the Sahitya Akademi, India's National Academy of Letters.</foaf:sinopsis>
+        <foaf:author>R._K._Narayan</foaf:author>
+        <foaf:country>India</foaf:country>
+        <foaf:language>English</foaf:language>
+        <foaf:publisher>Methuen Publishing, Viking Press</foaf:publisher>
+        <foaf:releaseDate>1958</foaf:releaseDate>
+        <foaf:numberOfPage>220</foaf:numberOfPage>
+        <foaf:literaryGenre>Philosophical novel</foaf:literaryGenre>
+        <foaf:isbn>0-670-35668-9</foaf:isbn>
+        <foaf:image>https://upload.wikimedia.org/wikipedia/en/a/a4/TheGuide.jpg</foaf:image>
+    </foaf:book>
+    <foaf:book rdf:about="http://localhost/bookpw5/Data/#10">
+        <foaf:name>In Patagonia</foaf:name>
+        <foaf:sinopsis>In Patagonia is an English travel book by Bruce Chatwin, published in 1977.</foaf:sinopsis>
+        <foaf:author>Bruce_Chatwin</foaf:author>
+        <foaf:country>United Kingdom</foaf:country>
+        <foaf:language>English</foaf:language>
+        <foaf:publisher>Jonathan Cape</foaf:publisher>
+        <foaf:releaseDate>1977</foaf:releaseDate>
+        <foaf:numberOfPage>240</foaf:numberOfPage>
+        <foaf:literaryGenre>Travel</foaf:literaryGenre>
+        <foaf:isbn>0-224-01419-6</foaf:isbn>
+        <foaf:image>https://upload.wikimedia.org/wikipedia/en/6/6a/InPatagonia.jpg</foaf:image>
+    </foaf:book>
+</rdf:RDF>
